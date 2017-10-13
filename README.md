@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+# Course content
 
-You can use the [editor on GitHub](https://github.com/michael-franke/Computational-Pragmatics-2017/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Pragmatic reasoning is reasoning about what a speaker may have meant by an utterance at a given occasion. Pragmatic reasoning requires listeners to draw on different sources of possibly uncertain information from context and world-knowledge. Likewise, listeners need to reason about the speaker’s state of mind, her beliefs and goals, and possibly even about the speaker’s idiosyncratic use of language. To combine these sources of information about what the speaker has likely meant, we turn towards probabilistic modelling. This course will cover a sequence of increasingly complex models of listeners’ probabilistic inferences about speaker meaning, including applications to referential communication, scalar implicatures, vagueness, generics, politeness and tropes.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/michael-franke/Computational-Pragmatics-2017/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+To harness the complexity of pragmatic reasoning we will formulate models in a probabilistic programming language called [WebPPL](webppl.org), which the course will introduce and which will help us understand the models and calculate their (quantitative) predictions. We will exercise with model code by going through selected chapters of the web-book [Probabilistic Language Understanding](https://michael-franke.github.io/probLang/).
