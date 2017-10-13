@@ -11,6 +11,41 @@ The course will be held on two weekends. On each day we convene from 9am to 5pm.
 - Wilhelmstraße 19, room 0.02 on October 14 & 15
 - Wilhelmstraße 19, room 1.13 on October 21 & 22
 
+## Schedule
+
+##### Day 1
+
+- Introduction to probabilistic pragmatics, the vanilla RSA model, reference games
+  - [[slides]](http://stanford.edu/~mtessler/short-courses/2017-computational-pragmatics/slides/CompPrag_intro_DGfS-FS-2017.pdf)
+
+- Probabilistic programming in WebPPL, Bayesian inference
+  - [JavaScript / WebPPL basics](http://probmods.org/chapters/13-appendix-js-basics.html)
+  - [BDAPPL: Introduction to randomness in programs](https://mhtess.github.io/bdappl/chapters/01-introduction.html)
+  - [BDAPPL: Constructing posterior distributions](https://mhtess.github.io/bdappl/chapters/02-buildingModels.html)
+  
+- vanilla RSA model & reference games
+  - [PLU: Chapter 1](https://michael-franke.github.io/probLang/chapters/01-introduction.html)
+
+- RSA models for scalar implicature (vanilla version & extension with uncertain speakers)
+  - [PLU: Enriching literal interpretations](https://michael-franke.github.io/probLang/chapters/02-pragmatics.html)
+  - Associated paper: [Goodman & Stuhlmüller (2013)](https://web.stanford.edu/~ngoodman/papers/GS-TopiCS-2013.pdf)
+
+
+##### Day 2
+
+- Non-literal language (Hyperbole, Metaphor, Sarcasm)
+  - [PLU: Inferring the Question-Under-Discussion](https://michael-franke.github.io/probLang/chapters/03-nonliteral.html)
+  - Hyperbole paper: [Kao et al., (2014)](http://cocolab.stanford.edu/papers/KaoEtAl2014-PNAS.pdf)
+  - Metaphor paper: [Kao et al., (2014)](http://cocolab.stanford.edu/papers/KaoEtAl2014-Cogsci.pdf)
+  - Irony paper: [Kao & Goodman (2015)](http://cocolab.stanford.edu/papers/KaoEtAl2015-Cogsci.pdf)
+  
+- Experimental data & Bayesian data analysis
+  - [PLU: BDA Appendix](https://michael-franke.github.io/probLang/chapters/app-02-BDA.html)
+
+##### Day 3 & 4
+
+- further selected chapters from [Probabilistic Language Understanding](https://michael-franke.github.io/probLang/)
+
 ## Course material
 
 ### Probabilistic pragmatics
