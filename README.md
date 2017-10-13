@@ -16,7 +16,7 @@ The course will be held on two weekends. On each day we convene from 9am to 5pm.
 ##### Day 1
 
 - Introduction to probabilistic pragmatics, the vanilla RSA model, reference games
-  - [[slides]](http://stanford.edu/~mtessler/short-courses/2017-computational-pragmatics/slides/CompPrag_intro_DGfS-FS-2017.pdf)
+  - [[slides]](slides/CompPrag-2017_intro.pdf)
 
 - Probabilistic programming in WebPPL, Bayesian inference
   - [JavaScript / WebPPL basics](http://probmods.org/chapters/13-appendix-js-basics.html)
