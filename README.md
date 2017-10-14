@@ -22,14 +22,12 @@ The course will be held on two weekends. On each day we convene from 9am to 5pm.
   - [JavaScript / WebPPL basics](http://probmods.org/chapters/13-appendix-js-basics.html)
   - [BDAPPL: Introduction to randomness in programs](https://mhtess.github.io/bdappl/chapters/01-introduction.html)
   - [BDAPPL: Constructing posterior distributions](https://mhtess.github.io/bdappl/chapters/02-buildingModels.html)
-  
-- vanilla RSA model & reference games
-  - [PLU: Chapter I: Introducing the Rational Speech Act framework](https://michael-franke.github.io/probLang/chapters/01-introduction.html)
-
 
 
 ##### Day 2
 
+- vanilla RSA model & reference games
+  - [PLU: Chapter I: Introducing the Rational Speech Act framework](https://michael-franke.github.io/probLang/chapters/01-introduction.html)
 
 - RSA models for scalar implicature (vanilla version & extension with uncertain speakers)
   - [PLU, Chapter II: Enriching literal interpretations](https://michael-franke.github.io/probLang/chapters/02-pragmatics.html)
