@@ -34,7 +34,7 @@ The course will be held on two weekends. On each day we convene from 9am to 5pm.
   - [PLU, Chapter II: Enriching literal interpretations](https://michael-franke.github.io/probLang/chapters/02-pragmatics.html)
     - Scalar implicature paper: [Goodman & Stuhlmüller (2013)](https://web.stanford.edu/~ngoodman/papers/GS-TopiCS-2013.pdf)
 
-- Non-literal language (Hyperbole, Metaphor, Sarcasm)
+- Non-literal language (hyperbole, irony, metaphor)
   - [PLU, Chapter III: Inferring the Question-Under-Discussion](https://michael-franke.github.io/probLang/chapters/03-nonliteral.html)
     - Hyperbole paper: [Kao et al., (2014)](http://cocolab.stanford.edu/papers/KaoEtAl2014-PNAS.pdf)
     - Metaphor paper: [Kao et al., (2014)](http://cocolab.stanford.edu/papers/KaoEtAl2014-Cogsci.pdf)
