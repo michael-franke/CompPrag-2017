@@ -28,16 +28,17 @@ The course will be held on two weekends. On each day we convene from 9am to 5pm.
 
 - vanilla RSA model & reference games
   - [PLU: Chapter I: Introducing the Rational Speech Act framework](https://michael-franke.github.io/probLang/chapters/01-introduction.html)
+    - vanilla RSA & reference game paper: [Frank & Goodman (2012)](http://science.sciencemag.org/content/336/6084/998)
 
 - RSA models for scalar implicature (vanilla version & extension with uncertain speakers)
   - [PLU, Chapter II: Enriching literal interpretations](https://michael-franke.github.io/probLang/chapters/02-pragmatics.html)
-  - Associated paper: [Goodman & Stuhlmüller (2013)](https://web.stanford.edu/~ngoodman/papers/GS-TopiCS-2013.pdf)
+    - Scalar implicature paper: [Goodman & Stuhlmüller (2013)](https://web.stanford.edu/~ngoodman/papers/GS-TopiCS-2013.pdf)
 
 - Non-literal language (Hyperbole, Metaphor, Sarcasm)
   - [PLU, Chapter III: Inferring the Question-Under-Discussion](https://michael-franke.github.io/probLang/chapters/03-nonliteral.html)
-  - Hyperbole paper: [Kao et al., (2014)](http://cocolab.stanford.edu/papers/KaoEtAl2014-PNAS.pdf)
-  - Metaphor paper: [Kao et al., (2014)](http://cocolab.stanford.edu/papers/KaoEtAl2014-Cogsci.pdf)
-  - Irony paper: [Kao & Goodman (2015)](http://cocolab.stanford.edu/papers/KaoEtAl2015-Cogsci.pdf)
+    - Hyperbole paper: [Kao et al., (2014)](http://cocolab.stanford.edu/papers/KaoEtAl2014-PNAS.pdf)
+    - Metaphor paper: [Kao et al., (2014)](http://cocolab.stanford.edu/papers/KaoEtAl2014-Cogsci.pdf)
+    - Irony paper: [Kao & Goodman (2015)](http://cocolab.stanford.edu/papers/KaoEtAl2015-Cogsci.pdf)
 
 ##### Day 3
 
@@ -47,11 +48,12 @@ The course will be held on two weekends. On each day we convene from 9am to 5pm.
 
 - Politeness ("Your lecture was interesting!")
   - [PLU, Chapter VIII: Social reasoning about social reasoning](https://michael-franke.github.io/probLang/chapters/08-politeness.html)
-  - White lies paper: [Yoon, Tessler, et al. (2016)](http://langcog.stanford.edu/papers_new/yoon-2016-cogsci.pdf)
-  - Indirectness paper: [Yoon et al., (2017)](http://langcog.stanford.edu/papers_new/yoon-2017-cogsci.pdf)
+    - White lies paper: [Yoon, Tessler, et al. (2016)](http://langcog.stanford.edu/papers_new/yoon-2016-cogsci.pdf)
+    - Indirectness paper: [Yoon et al., (2017)](http://langcog.stanford.edu/papers_new/yoon-2017-cogsci.pdf)
 
 - Experimental data & Bayesian data analysis
   - [PLU: Appendix Chapter II](https://michael-franke.github.io/probLang/chapters/app-02-BDA.html)
+    - paper with data & model comparison: [Qing & Franke (2015)](http://www.sfs.uni-tuebingen.de/~mfranke/Papers/QingFranke_2013_Variations_on_Bayes.pdf)
 
 ##### Day 4
 
