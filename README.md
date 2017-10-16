@@ -59,6 +59,10 @@ The course will be held on two weekends. On each day we convene from 9am to 5pm.
 
 - further selected chapters from [Probabilistic Language Understanding](https://michael-franke.github.io/probLang/)
 
+## Homework
+
+1. [Exercises on coin flips and scalar implicatures](homeowork/01_coins_and_scalars.html) are due on Friday October 20th.
+
 ## Course material
 
 ### Probabilistic pragmatics
