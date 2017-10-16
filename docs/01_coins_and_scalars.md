@@ -6,7 +6,7 @@ Solutions are due on Friday, October 20th by noon. Please send your solutions as
 
 #### Exercise 1: Coin flips
 
-Use the code from [Chapter II from MH Tesslers BDAPPL Webbook](https://mhtess.github.io/bdappl/chapters/02-buildingModels.html) to calculate your rational beliefs about the bias of a coin. Suppose that your prior beliefs about the coin's bias $\theta$ are given by a Beta distribution with parameters $a = 0.5$ and $b = 0.5$. In WebPPL, you can construct this distribution by:
+Use the code from [Chapter II from MH Tesslers BDAPPL Webbook](https://mhtess.github.io/bdappl/chapters/02-buildingModels.html) to calculate your rational beliefs about the bias of a coin. Suppose that your prior beliefs about the coin's bias $$\theta$$ are given by a Beta distribution with parameters $a = 0.5$ and $b = 0.5$. In WebPPL, you can construct this distribution by:
 
 ```js
 var priorDistribution = Beta({a: 0.5, b: 0.5})
