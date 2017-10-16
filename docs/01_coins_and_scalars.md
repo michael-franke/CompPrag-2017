@@ -12,6 +12,19 @@ Use the code from [Chapter II from MH Tesslers BDAPPL Webbook](https://mhtess.gi
 var priorDistribution = Beta({a: 0.5, b: 0.5})
 ```
 
-The coin was flipped 30 times and we observed 25 heads. Generate a density plot from samples from the posterior distribution of the coin's bias after observing 25 heads out of 30 flips.
+The coin was flipped 30 times and we observed 25 heads. Use `viz` and `Infer` to generate a density plot from samples from the posterior distribution of the coin's bias after observing 25 heads out of 30 flips. Would you conclude from inspecting this plot that it is likely that the coin is fair, i.e., has a bias $$\theta = .5$$? (Give your short answer as an in-line code comment.)
 
-This 
+*Hint*: all of the code you need (except for a change in the prior distribution and a change in what was observed) can in principle be copy-pasted from [Chapter II from MH Tesslers BDAPPL Webbook](https://mhtess.github.io/bdappl/chapters/02-buildingModels.html), in particular one of the last code boxes on that page. However, please (re-)name variables appropriately. For example, what was a child before is now a coin flip. The propensity of helping is the probability of landing heads. Etc.
+
+
+#### Exercise 2: Scalar implicatures
+
+Use the code from the first model of [Chapter II from Probabilistic Language Understanding](https://michael-franke.github.io/probLang/chapters/02-pragmatics.html). Extend the model in the following way:
+
+1. Currently, the code fixes that there are only 3 apples whose color the conversation is about. Make the code more general, by having a variable `total_apples` which we can set in the beginning of the code to any arbitrary (but reasonable) value. (*Hints:* the function `_.range(total_apples+1)` might be really handy; moreover, don't forget to take care of the semantics, in particcular the meaning of "all".)
+2. Include messages with the following messages:
+- "one", "two" and "three" with the obvious semantics (e.g., "one" is true iff exactly 1 apple is red)
+- "many" which is true for any number of red apples bigger than 4
+- "most" which is true for any number of red apples bigger than half of `total_apples`
+
+Create a histrogram of the pragmatic listener's interpretation of "some" when `total_apples = 10`.
