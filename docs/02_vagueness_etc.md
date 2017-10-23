@@ -1,8 +1,8 @@
-## Homework 2: Vagueness & politeness
+## Homework 2: Vagueness, BDA & scope ambiguity
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
-Solutions are due on Friday, November 3rd by noon. Please send your solutions as a zipped archive, including a *.webppl file for each exercise with your code and in-code comments to [Michael Franke](mailto:michael.franke@uni-tuebingen.de). Please name the archive `lastName_HW2.zip` and the included files like `lastName_HW2_ex1_partA.webppl`. 
+Solutions are due on Friday, November 3rd by noon. Please send your solutions as a zipped archive, including a *.webppl file for each exercise with your code and in-code comments to [Michael Franke](mailto:michael.franke@uni-tuebingen.de). Please name the archive `lastName_HW2.zip` and the included files like `lastName_HW2_ex1_partA.wppl`. 
 
 #### Exercise 1: Vagueness
 

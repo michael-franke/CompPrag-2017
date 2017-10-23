@@ -2,7 +2,7 @@
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
-Solutions are due on Friday, October 20th by noon. Please send your solutions as a zipped archive, including two *.webppl files with your code and in-code comments to [Michael Franke](mailto:michael.franke@uni-tuebingen.de). Please name the archive `lastName_HW1.zip` and the included files `lastName_HW1_ex1.webppl` and `lastName_HW1_ex2.webppl`. 
+Solutions are due on Friday, October 20th by noon. Please send your solutions as a zipped archive, including two *.webppl files with your code and in-code comments to [Michael Franke](mailto:michael.franke@uni-tuebingen.de). Please name the archive `lastName_HW1.zip` and the included files `lastName_HW1_ex1.webppl` and `lastName_HW1_ex2.wppl`. 
 
 #### Exercise 1: Coin flips
 
